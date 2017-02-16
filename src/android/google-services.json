@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619270470799",
+    "firebase_url": "https://gymnasium-158806.firebaseio.com",
+    "project_id": "gymnasium-158806",
+    "storage_bucket": "gymnasium-158806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619270470799:android:771656abea9702cb",
+        "android_client_info": {
+          "package_name": "com.gymnasium3.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619270470799-q85uhoqdm8p2iq0mjuf3l0aphkre2lt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs3cxX2pVzElDiM87g0vxXyFK3wXCqpGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
