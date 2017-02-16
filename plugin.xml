@@ -21,10 +21,10 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">gymnasium-158806b</string>
+			<string name="google_app_id">619270470799</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">AIzaSyDoWnItFRFovYMgnhw65hYU_zdw_fXRG-s</string>
+			<string name="google_api_key">AAAAkC9lfI8:APA91bHe67kSGN4Crahz64NEO0b3Xa4L5ka-cXhc-ODqM0OBNFwMmdSCVIHxchKmCmGp4sUEOEx4dWu8mDiUUtgK-VkCrhHP2iWXQA9JYSVTPenb-39opT7j5r4Y7HIRZOyTjCpiszgS</string>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
